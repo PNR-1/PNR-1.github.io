@@ -8,4 +8,8 @@ venue: 'Neural Computing and Applications'
 paperurl: 'http://PNR-1.github.io/files/2018_Adversarial_NN.pdf'
 citation: 'Dash, Tirtharaj, Dambekodi, Sahith N, Reddy, Preetham N, and Abraham, Ajith. &quot;Adversarial neural networks for playing hide-and-search board game Scotland Yard.&quot; <i>Neural Computing and Applications 2018</i>.'
 ---
-
+Our contribution in the present work can be summarized as follows:
+• We propose and investigate the applicability of adver- sarial neural networks for playing a hide-and-search board game called Scotland Yard.
+• Two different models of the adversarial neural net- works have been developed and rigorously experi- mented to learn the behavior of Mr. X in the game and further to incorporate the coalition among the detectives.
+• Conceptual inferences have been made from the obtained results of the developed models.
+• This investigative study could aid in the present research in the applied field of machine learning and hide-and-search game.
