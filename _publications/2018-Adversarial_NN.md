@@ -6,6 +6,6 @@ excerpt: 'This paper investigates the design of game playing agents, which shoul
 date: 2018-09-19
 venue: 'Neural Computing and Applications'
 paperurl: 'http://PNR-1.github.io/files/2018_Adversarial_NN.pdf'
-citation: 'Dash, Tirtharaj, Dambekodi, Sahith N, Reddy, Preetham N, and Abraham, Ajith. &quot;Adversarial neural networks for playing hide-and-search board game Scotland Yard.&quot; <i>Neural Computing and Applications 2018</i>. 1(1).'
+citation: 'Dash, Tirtharaj, Dambekodi, Sahith N, Reddy, Preetham N, and Abraham, Ajith. &quot;Adversarial neural networks for playing hide-and-search board game Scotland Yard.&quot; <i>Neural Computing and Applications 2018</i>.'
 ---
 
