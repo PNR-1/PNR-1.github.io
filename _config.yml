@@ -85,8 +85,8 @@ author:
   bio              : "Analog Engineer by profession. B.E. (Hons.) in EEE from BITS Pilani"
   location         : "Bangalore, India"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #""
+  googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
