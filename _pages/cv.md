@@ -65,6 +65,7 @@ Positions of Responsibility
 * Co-Founder, The Student Forum BPGC (Founded - January 2018)
   * Managed publicity and logistics for the talks conducted by The Student Forum. 
   * Created a pre-talk and post-talk checklist to standardize team practices across the years.
+
 Talks
 ======
   <ul>{% for post in site.talks %}
