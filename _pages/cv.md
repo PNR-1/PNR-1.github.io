@@ -77,3 +77,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Extra Curricular
+======
+* IEEE Student Member (IEEE-BPGC).
+* Won 2nd position in the Air-Crash Investigation Competition held at Quark 2017. (February 2017)
+* Won 1st position in the Air-Crash Investigation Competition held at Quark 2016. (February 2016)
+* Attended a workshop on Computer Network and Management by NETTECH. (September 2015)
+* Member of the organizing team for Waves (cultural fest) and Quark (technical fest). (2015-2016)
