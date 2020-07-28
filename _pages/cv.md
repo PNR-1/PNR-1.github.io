@@ -28,6 +28,12 @@ Work experience
 * Research Assistant, BITS Pilani (May 2016 - August 2017)
   * Studied the optimal architecture for Adversarial Neural Agents in asymmetric board games with imperfect information.
   * Developed a Fuzzy-Granular Decision Tree, which gave a 20% increase in accuracy over existing work.
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Awards
 ======
@@ -43,13 +49,22 @@ Internships
 * Central Electronics Engineering Research Institute, Chennai, India (May 2017 - July 2017)
   * Worked on the multivariate analysis for quality assessment of agro-food industry products using non-destructive Near Infra-Red Spectroscopy techniques.
   * Developed a Signal Pre-processing toolbox in MATLAB, to correct measurement errors in NIR Spectral Data. Further implemented regression, support vector machine, K-means to characterize the composition of new samples against existing baselines.
-
-Publications
+ 
+Skills
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Software: Cadence Virtuoso, ModelSim Altera, MATLAB, Eagle Vision, LabVIEW, Test Stand.
+* Programming Languages: Verilog A, PSPICE, Verilog HDL, MATLAB, Python3.
+
+Positions of Responsibility
+======
+* EEE Co-ordinator (Elected Representative, April 2017 - April 2018)
+  * Represented the interests of the student population in various academic and administrative avenues. Responsible for the bring-up and management of technical activities on campus.
+  * Invited member of the Student-Faculty Council and Council of Student Affairs.
+  * Managed a workshop on Cyber Security, activities for ‘Department Week’ and other seminars.
+
+* Co-Founder, The Student Forum BPGC (Founded - January 2018)
+  * Managed publicity and logistics for the talks conducted by The Student Forum. 
+  * Created a pre-talk and post-talk checklist to standardize team practices across the years.
 Talks
 ======
   <ul>{% for post in site.talks %}
