@@ -1,0 +1,17 @@
+---
+title: "Reinforcement Learning"
+collection: teaching
+type: "Instructor"
+permalink: /teaching/2017_RL_CTE
+venue: "Center for Technical Education, BITS Pilani, Goa"
+date: 2017-08-15
+location: "South Goa, India"
+---
+
+* Introduction to RL covering various topics like 
+  * Q-Learning
+  * MDP
+  * Policy Search
+  * Credit Assignment Problems
+  * Bellman Equation
+  * DQN’s
