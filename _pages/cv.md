@@ -11,18 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering (Hons.) in Electrical and Electronics Engineering, BITS Pilani, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Texas Instruments, Bangalore, India (July 2019 - Present)
+  * Characterization of a 14-bit Ultra-Low-Power DAC. 
 
-* Fall 2015: Research Assistant
+* Research Assistant, BITS Pilani 
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
