@@ -25,14 +25,24 @@ Work experience
   * Performed a detailed study of sampled loop-filter architecture and developed an LTI Continuous Time model of the Sampled Loop-Filter Charge-Pump PLL, to examine the effects of switch ON-time and its sizing on the PLL loop dynamics.
   * Investigated a wide swing loop filter capacitor leakage current cancellation circuit that tracks the control voltage and process variation.
   
-Skills
+* Research Assistant, BITS Pilani (May 2016 - August 2017)
+  * Studied the optimal architecture for Adversarial Neural Agents in asymmetric board games with imperfect information.
+  * Developed a Fuzzy-Granular Decision Tree, which gave a 20% increase in accuracy over existing work.
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Institute Merit Scholarship: Awarded tuition fee waiver for academic excellence. (January 2017 - June 2019)
+* Ranked 2nd amongst a batch of 73 students during undergraduate study at BITS Pilani.
+
+Internships
+======
+* Texas Instruments, Bangalore, India (January 2019 - June 2019)
+  * Wrote the Final Test program of the device DRV8304S for the Automatic Test Equipment (ETS-364). Performed ATE characterization of the device and Functional Validation of its SPI functionality.
+  * Liaised with the Applications and Design teams to understand customer issues and reproduce them on our lab benches.
+  
+* Central Electronics Engineering Research Institute, Chennai, India (May 2017 - July 2017)
+  * Worked on the multivariate analysis for quality assessment of agro-food industry products using non-destructive Near Infra-Red Spectroscopy techniques.
+  * Developed a Signal Pre-processing toolbox in MATLAB, to correct measurement errors in NIR Spectral Data. Further implemented regression, support vector machine, K-means to characterize the composition of new samples against existing baselines.
 
 Publications
 ======
@@ -52,6 +62,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
