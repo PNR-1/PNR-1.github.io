@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.E. (Hons.) in Electrical and Electronics Engineering, BITS Pilani - 2019
-CGPA: 9.40, Graduate with Distinction.
+* B.E. (Hons.) in Electrical and Electronics Engineering from BITS Pilani - 2019
+  * CGPA: 9.40, Graduate with Distinction.
 
 Work experience
 ======
